@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\GitHub\SystemTime\obj\Debug\net7.0\SystemTime.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\SystemTime\obj\Debug\net7.0\SystemTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\SystemTime\obj\Debug\net7.0\SystemTime.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\SystemTime\obj\Debug\net7.0\SystemTime.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\SystemTime\obj\Debug\net7.0\SystemTime.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\SystemTime\bin\Debug\net7.0\SystemTime.exe
+C:\Users\ADMIN\Documents\GitHub\SystemTime\bin\Debug\net7.0\SystemTime.deps.json
+C:\Users\ADMIN\Documents\GitHub\SystemTime\bin\Debug\net7.0\SystemTime.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\SystemTime\bin\Debug\net7.0\SystemTime.dll
+C:\Users\ADMIN\Documents\GitHub\SystemTime\bin\Debug\net7.0\SystemTime.pdb
+C:\Users\ADMIN\Documents\GitHub\SystemTime\obj\Debug\net7.0\SystemTime.dll
+C:\Users\ADMIN\Documents\GitHub\SystemTime\obj\Debug\net7.0\refint\SystemTime.dll
+C:\Users\ADMIN\Documents\GitHub\SystemTime\obj\Debug\net7.0\SystemTime.pdb
+C:\Users\ADMIN\Documents\GitHub\SystemTime\obj\Debug\net7.0\SystemTime.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\GitHub\SystemTime\obj\Debug\net7.0\ref\SystemTime.dll
